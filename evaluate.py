@@ -1,4 +1,4 @@
-from main import compute_linear_regression
+from mainWithGraph import compute_linear_regression
 import numpy as np
 
 
